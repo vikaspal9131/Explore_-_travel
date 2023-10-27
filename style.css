@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main{
+
+    /* background-color: red; */
+    min-height:100vh;
+    background-image: url(https://getwallpapers.com/wallpaper/full/b/c/b/193441.jpg);
+    background-size: cover;
+ 
+}
+
+.head{
+    background-color: transparent;
+    padding-top: 15px;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+}
+
+.logo{
+    font-size: larger;
+    margin-left: 100px;
+    width: 150px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about{
+    font-size: larger;
+    margin-right: 100px; 
+    width: 490px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img{
+    margin-top: 4px;
+}
+
+.page-entry{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 900px;
+    margin-top: 80px;
+    width: 400px;
+    height: 440px;
+}
+.page-head{
+    width: 500px;
+    margin-bottom: 20px;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.head-line{
+    font-size: 25px;
+    color: rgb(14, 103, 14);
+    margin-bottom: 10px;
+}
+
+.head-off{
+    margin-bottom: 20px;
+ 
+}
+.head-btn{
+    height: 40px;
+    width: 150px;
+  
+}
+
+.head-btn button{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    /* background: transparent; */
+}
+
+#Packages-main{
+
+    min-height: 100vh;
+    background-color: rgb(234, 234, 234);
+}
+.popular{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.main-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: royalblue; */
+    height: 79vh;
+    width: 100%;
+}
+
+
+.box1{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+}
+.box2{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+}
+.box3{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+}
+.box4{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+}
+.main{
+    height: 20px;
+    width: 100px;
+    background-color: blanchedalmond;
+}
+
+/* ne.{
+    this is the error line 
+} */
